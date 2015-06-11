@@ -4,6 +4,8 @@ Como todo projeto deve ser iniciado ore nesse momento e peça orientação de De
 
 > Este é apenas e unicamente um grupo diverso de colaboradores interessados. Este trabalho é voluntário realizado de forma colaborativa.
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdventistOpenSourceGroup/Index?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+
 ## Missão
 Abreviar a volta de Cristo levando a sua mensagem ao mundo.
 

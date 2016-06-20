@@ -1,4 +1,4 @@
-# Index
+# Guide
 
 Como todo projeto deve ser iniciado ore nesse momento e peça orientação de Deus e seu Espírito Santo.
 

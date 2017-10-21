@@ -8,7 +8,7 @@ Como todo projeto deve ser iniciado ore nesse momento e peça orientação de De
 Abreviar a volta de Cristo levando a sua mensagem ao mundo.
 
 ## Objetivo
-Entregar a comunidade Adventista recursos técnologicos livres particulares em denominação.
+Entregar a comunidade Adventista recursos tecnológicos livres particulares em denominação.
 
 ## Meta
 Disponibilizar agradável experiências no uso de tais recursos técnologicos afim de aprimoramento espiritual.
